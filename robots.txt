@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aurahomebbsr.web.app/sitemap.xml
