@@ -1,0 +1,14 @@
+{
+  "name": "aura-home-solutions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AURA Home Solutions static website",
+  "main": "server.js",
+  "scripts": {
+    "build": "echo build",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
