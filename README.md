@@ -10,7 +10,7 @@ A premium single-page website for AURAM Home Solutions, an interior design busin
 
 ## 🔌 Live Demo
 
-[https://aurahomebbsr.web.app/](https://aurahomebbsr.web.app/)
+[https://aurahomesodisha.com/](https://aurahomesodisha.com/)
 
 ---
 
